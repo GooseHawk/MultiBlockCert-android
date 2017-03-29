@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/ef9a0b31d11b804f43a14155b94d17e42b04b6e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_22888acbb60ad7d9a78b6501f979a1ef073d110f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/a0ff15160fabf0e1dcc2089597d7cbc4c2053bb2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cad86b18eb6f75af55ac2848eba6d6bd2849edff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/9408cbfeebe1daa6e93e6cb8405168027f5f1ecd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_ff6aefd174afa9015180716bd910de97b45f2547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/2b3eb942df037a76f28047de4ec8a31df64d4a49/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5135f9e09db04bdb0115253e1407f08c2a7d2ffa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivan/.android/build-cache/39f557995c0e702798d3c33c8f48ef888571a061/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="737dc19b2a9788d547db2477c3b0bd7bfd151a8b">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7326de73f762eb2fa3d54142cef9592ecc7f9124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivan/QRCode-Android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf197d79607da82d260aed9a8dcde16b0c9e5932/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/a0ff15160fabf0e1dcc2089597d7cbc4c2053bb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_a925daf5b8cf813d2ecb28cd2d51e93003e99f9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/a1bd62c1d127355958cc68333f909a1114491dad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="123445a738f283d8272ba858cc4233c090d9e41d">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_2b5f5c371fa31cdac445884a20d01920bf792a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/2b3eb942df037a76f28047de4ec8a31df64d4a49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_8e7ef462d0480ae003f19e756b0378ccbfb3e60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/d0648e9d90830875615f5355372d30f6f0c76c20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_3ec8f31456f5a04b211f300f6f3721361c3a04ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/gson-2.3.1_8ebdc5e8c321c2abd21b7310d8031e0e37ab3b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/d4a883c8bf124200f6052fd962cdd1c4e0424aeb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_c55524e65ea4dcc8cfab0af143b3732963c975d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/core-3.2.1_f01e211cd61d382e085776e4a7c52041b186ea7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/6820775a349c422fe4ce074c5dbe9391737f6310/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_07491aada95a6fa5d92e317b9b5ab5bcbb3623a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/92acf048a3beb6c34084e2488f6153780211e88c/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_18dd4de8c248cf5e7a8703b99715aeff126d45e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ivan/QRCode-Android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2526d68af169d5e7c9ab33bfa9640182d0cf159">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d4b6d4b7a6a364a13bde80f87067023be7877cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/350dbc06e36e3f2d28f0190247b941d26b59d3fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_02aeb98b02c45dfa613a78f8c3bf8fe0867383a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/6820775a349c422fe4ce074c5dbe9391737f6310/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_e59a58bc65449eacf91e1cc4c6915c13cb774549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/9408cbfeebe1daa6e93e6cb8405168027f5f1ecd/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f52e39c9ad1af86416a259d8f4460b5d067508ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/.android/build-cache/92acf048a3beb6c34084e2488f6153780211e88c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/classes_224ca6752ba31bc78c249346f3eea87295d0c42c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ivan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ivan/QRCode-Android-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_27805a9e5ffdf6de62f234899e1844824487a63a.jar" />
+    </item>
+
+</items>
